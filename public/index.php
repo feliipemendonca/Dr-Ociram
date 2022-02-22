@@ -16,14 +16,18 @@
 		</Style>
 	</head>
 	<body>
-		<header class="container pt-5">
-			<h1 class="text-center">Dr Ociram de Magalhães</h1>
-			<h2 class="text-center pb-3"><strong>CRM: 5072</strong></h2>
+		<header class="container pt-3">
+			<h3 class="text-center">Dr Ociram de Magalhães</h3>
+			<h4 class="text-center pb-2"><strong>CRM: 5072</strong></h4>
 		</header>
 		<main class="container">
-			<h2 class="text-center pt-5 pb-5">Receituário Médico</h2>
-			<input type="text" placeholder="Nome do Paciente" class="form-control text-center border-0 fw-bold fs-2" autofocus>
-			<textarea name="" id="" cols="30" rows="20" class="form-control border-0 mt-3" placeholder="Receituário" autofocus></textarea>
+			<h3 class="text-center pt-2 pb-4">Receituário Médico</h3>
+			<input type="text" placeholder="Nome do Paciente" class="form-control text-center border-0 fw-bold fs-5" autofocus>
+			<label for="" class="pt-4"><strong>Receituário1</strong></label>
+			<textarea name="" id="" cols="14" rows="14" class="form-control border-0 mt-3" placeholder="Receituário1" autofocus></textarea>
+			<label for=""><strong>Receituário1</strong></label>
+			<textarea name="" id="" cols="14" rows="10" class="form-control border-0 mt-3" placeholder="Receituário1" autofocus></textarea>
+			
 		</main>
 		<footer class="container d-flex justify-content-between">
 			<div class="card border-0">
